@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, This Way  ! 👋
+
+Undergraduted student majoring in information technology.
+- 🌱 I’m currently interesting in PWA, UX/UI research, Mobile app development.
+- 🔭 I’m currently working on technical improvement for better.
+- 😄 About me: Rattanawich Sinborvonphichai is my name.
 
 <!--
 **hnunkung/hnunkung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
