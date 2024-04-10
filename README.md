@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://camo.githubusercontent.com/d89c9bd0bd85182232d91b100cd250d9f3078170b6848952163d7a2c810e84b2/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f666c6167732f68642f696e646961706172726f742e676966)
+![](https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif)
+![](https://cultofthepartyparrot.com/flags/hd/thailandparrot.gif)
