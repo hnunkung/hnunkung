@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif)
-![](https://cultofthepartyparrot.com/flags/hd/thailandparrot.gif)
+
+
+[<img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30"/>](image.png)
+[<img src="https://cultofthepartyparrot.com/flags/hd/thailandparrot.gif" width="30"/>](image.png)
